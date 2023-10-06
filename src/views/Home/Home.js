@@ -6,9 +6,9 @@ import showToast from 'crunchy-toast';
 function Home(){
     const [contacts,setContacts] = useState([
     {
-        Name: 'Piyush',
-        Mobile: '8390074057',
-        Email:'piyushaglawe05@gmail.com'
+        Name: 'Yash',
+        Mobile: '7588002921',
+        Email:'yashchaudhari859@gmail.com'
     }
 ]);
     const[Name,setName] = useState('');   
