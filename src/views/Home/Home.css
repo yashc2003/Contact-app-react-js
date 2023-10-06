@@ -1,0 +1,35 @@
+.app-title{
+    text-align: center;
+    color: #e65c00;
+    font-size: 18px;
+}
+body{
+    background-color: #fff0e6;
+}
+
+
+.app-body{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.user-input{
+    display: block;
+    font-size: 25px;
+    padding: 5px;
+    margin: 30px;
+    border-radius: 5px;
+    border: 1px solid #e65c00 ;
+}
+.btn-add-contact{
+    display: block;
+    font-size: 30px;
+    padding: 10px 30px;
+    margin: 30px auto ;
+    background-color: #e65c00;
+    color: #fff0e6;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+
+}
